@@ -67,6 +67,6 @@
     "tslint": "^5.14.0",
     "tslint-react": "^4.0.0",
     "typescript": "^3.3.3333",
-    "react-native-testing-library": "^1.6.0"
+    "react-native-testing-library": "1.6.1"
   }
 }
